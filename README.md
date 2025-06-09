@@ -1,0 +1,2 @@
+# wolf-rules
+Wolf Game
